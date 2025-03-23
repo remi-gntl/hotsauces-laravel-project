@@ -1,4 +1,4 @@
-# HotSauces - Laravel Project
+# HotSauces 🔥 - Projet Laravel 
 
 ## Description
 Ce projet est une application web développée avec Laravel permettant aux utilisateurs d'ajouter leurs sauces préférées, ainsi que de liker ou disliker les sauces ajoutées par les autres.
