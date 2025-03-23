@@ -2,6 +2,7 @@
 
 ## Description
 Ce projet est une application web développée avec Laravel permettant aux utilisateurs d'ajouter leurs sauces préférées, ainsi que de liker ou disliker les sauces ajoutées par les autres.
+Développé dans le cadre de la ressource R4.01 Architecture logicielle du Semestre 4
 
 ## Fonctionnalités
 - Inscription et authentification des utilisateurs
@@ -69,8 +70,5 @@ php artisan serve
 ## API
 L'application peut être utilisée comme une API REST pour interagir avec les sauces via les routes définies ci-dessus.
 
-## Auteurs
+## Auteur
 - Rémi Gentil
-
-## Licence
-Ce projet est sous licence MIT.
